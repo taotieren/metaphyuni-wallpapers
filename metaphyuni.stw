@@ -1,5 +1,5 @@
 # Simple Timed Wallpaper
-# taotieren <admin@taotieren.org>
+# taotieren <admin@taotieren.com>
 # 2024-05-07
 #
 # Activate with `settimed metaphyuni` from the `wallutils` package.
@@ -7,17 +7,17 @@
 stw: 1.0
 name: metaphyuni
 format: /usr/share/backgrounds/metaphyuni/%s
-@07:00: YearDragonWallpaper01.jpeg
-@08:00: YearDragonWallpaper02.jpeg
-@09:00: Metamech01.jpeg
-@10:00: Metamech02.jpeg
-@11:00: Metamech03.jpeg
-@11:30: Metaphyuni01.jpeg
-@12:00: Metaphyuni02.jpeg
-@12:30: Metaphyuni03.jpeg
-@13:00: SuTingxue01.jpeg
-@14:00: SuTingxue02.jpeg
-@14:30: SuTingxue03.jpeg
-@15:30: SuTingxue02-Yijiantagexing.jpeg
-@16:00: SuTingxue03-Lingshejian.jpeg
-@18:00: SuTingxue04-Buyuxiaochunfeng.jpeg
+@07:00: YearDragonWallpaper01-1080p.jpeg
+@08:00: YearDragonWallpaper02-1080p.jpeg
+@09:00: Metamech01-1080p.jpeg
+@10:00: Metamech02-1440p.jpeg
+@11:00: Metamech03-1080p.jpeg
+@11:30: Metaphyuni01-1688p.jpeg
+@12:00: Metaphyuni02-1080p.jpeg
+@12:30: Metaphyuni03-1440p.jpeg
+@13:00: SuTingxue01-2250p.jpeg
+@14:00: SuTingxue02-2250p.jpeg
+@14:30: SuTingxue03-2250p.jpeg
+@15:30: SuTingxue02-Yijiantagexing-2250p.jpeg
+@16:00: SuTingxue03-Lingshejian-2250p.jpeg
+@18:00: SuTingxue04-Buyuxiaochunfeng-2250p.jpeg
